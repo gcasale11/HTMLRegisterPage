@@ -3,12 +3,11 @@ section {
     padding: 30px;
     border: 3px solid black;
     border-width: 100%;
-    background-color:lightslategray
+    background-color:lightslategray;
 }
 
 .navbutton {
     margin-left: 80%;
-    button-align: 80%
     padding: 30px 30px;
 }
 
@@ -22,7 +21,7 @@ margin-left: 75%;
     
 
 body{
-    background-color: lightgoldenrodyellow
+    background-color: lightgoldenrodyellow;
 }
 
 form{
@@ -40,6 +39,5 @@ form{
 }
 
 ::placeholder {
-    color: lightgray
-}
+    color: lightgray;
 }
